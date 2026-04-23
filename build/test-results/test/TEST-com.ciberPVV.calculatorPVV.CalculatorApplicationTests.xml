@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ciberPVV.calculatorPVV.CalculatorApplicationTests" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-04-23T18:50:06.925Z" hostname="UBUNTUDSK24" time="2.933">
+  <properties/>
+  <testcase name="testSum()" classname="com.ciberPVV.calculatorPVV.CalculatorApplicationTests" time="0.906"/>
+  <testcase name="contextLoads()" classname="com.ciberPVV.calculatorPVV.CalculatorApplicationTests" time="0.01"/>
+  <system-out><![CDATA[20:50:07.156 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.ciberPVV.calculatorPVV.CalculatorApplicationTests]: CalculatorApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+20:50:07.295 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.ciberPVV.calculatorPVV.CalculatorPvvApplication for test class com.ciberPVV.calculatorPVV.CalculatorApplicationTests
+20:50:07.376 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.ciberPVV.calculatorPVV.CalculatorApplicationTests]: CalculatorApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+20:50:07.379 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.ciberPVV.calculatorPVV.CalculatorPvvApplication for test class com.ciberPVV.calculatorPVV.CalculatorApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.6)
+
+2026-04-23T20:50:07.749+02:00  INFO 6207 --- [calculatorPVV] [    Test worker] c.c.c.CalculatorApplicationTests         : Starting CalculatorApplicationTests using Java 21.0.10 with PID 6207 (started by administrador in /home/administrador/calculatorPVV)
+2026-04-23T20:50:07.751+02:00  INFO 6207 --- [calculatorPVV] [    Test worker] c.c.c.CalculatorApplicationTests         : No active profile set, falling back to 1 default profile: "default"
+2026-04-23T20:50:08.920+02:00  INFO 6207 --- [calculatorPVV] [    Test worker] c.c.c.CalculatorApplicationTests         : Started CalculatorApplicationTests in 1.479 seconds (process running for 3.234)
+]]></system-out>
+  <system-err><![CDATA[Mockito is currently self-attaching to enable the inline-mock-maker. This will no longer work in future releases of the JDK. Please add Mockito as an agent to your build as described in Mockito's documentation: https://javadoc.io/doc/org.mockito/mockito-core/latest/org.mockito/org/mockito/Mockito.html#0.3
+WARNING: A Java agent has been loaded dynamically (/home/administrador/.gradle/caches/modules-2/files-2.1/net.bytebuddy/byte-buddy-agent/1.17.8/f09415827a71be7ed621c7bd02550678f28bc81c/byte-buddy-agent-1.17.8.jar)
+WARNING: If a serviceability tool is in use, please run with -XX:+EnableDynamicAgentLoading to hide this warning
+WARNING: If a serviceability tool is not in use, please run with -Djdk.instrument.traceUsage for more information
+WARNING: Dynamic loading of agents will be disallowed by default in a future release
+]]></system-err>
+</testsuite>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ciberPVV.calculatorPVV.CalculatorPvvApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-04-23T18:50:09.869Z" hostname="UBUNTUDSK24" time="0.029">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.ciberPVV.calculatorPVV.CalculatorPvvApplicationTests" time="0.005"/>
+  <system-out><![CDATA[2026-04-23T20:50:09.873+02:00  INFO 6207 --- [calculatorPVV] [    Test worker] t.c.s.AnnotationConfigContextLoaderUtils : Could not detect default configuration classes for test class [com.ciberPVV.calculatorPVV.CalculatorPvvApplicationTests]: CalculatorPvvApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2026-04-23T20:50:09.879+02:00  INFO 6207 --- [calculatorPVV] [    Test worker] .b.t.c.SpringBootTestContextBootstrapper : Found @SpringBootConfiguration com.ciberPVV.calculatorPVV.CalculatorPvvApplication for test class com.ciberPVV.calculatorPVV.CalculatorPvvApplicationTests
+2026-04-23T20:50:09.883+02:00  INFO 6207 --- [calculatorPVV] [    Test worker] t.c.s.AnnotationConfigContextLoaderUtils : Could not detect default configuration classes for test class [com.ciberPVV.calculatorPVV.CalculatorPvvApplicationTests]: CalculatorPvvApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2026-04-23T20:50:09.884+02:00  INFO 6207 --- [calculatorPVV] [    Test worker] .b.t.c.SpringBootTestContextBootstrapper : Found @SpringBootConfiguration com.ciberPVV.calculatorPVV.CalculatorPvvApplication for test class com.ciberPVV.calculatorPVV.CalculatorPvvApplicationTests
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
